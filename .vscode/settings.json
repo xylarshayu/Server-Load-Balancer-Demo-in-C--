@@ -1,0 +1,8 @@
+{
+    "nuxt.isNuxtApp": false,
+    "files.associations": {
+        "xlocinfo": "cpp",
+        "xstring": "cpp",
+        "xutility": "cpp"
+    }
+}
